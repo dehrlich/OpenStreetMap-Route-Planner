@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+This repo contains the code for my implementation of the Route Planner module and A* search algorithm for Udacity's Route Planning project.
 
 <img src="map.png" width="600" height="450" />
 
@@ -8,11 +8,11 @@ This repo contains the starter code for the Route Planning project.
 
 When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
 ```
-git clone https://github.com/udacity/CppND-Route-Planning-Project.git --recurse-submodules
+git clone https://github.com/dehrlich/OpenStreetMap-Route-Planner.git --recurse-submodules
 ```
 or with SSH:
 ```
-git clone git@github.com:udacity/CppND-Route-Planning-Project.git --recurse-submodules
+git clone git@github.com:dehrlich/OpenStreetMap-Route-Planner.git --recurse-submodules
 ```
 
 ## Dependencies for Running Locally
@@ -58,5 +58,3 @@ The testing executable is also placed in the `build` directory. From within `bui
 ```
 ./test
 ```
-
-little test
