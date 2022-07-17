@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the code for my implementation of the Route Planner module and A* search algorithm for Udacity's Route Planning project.
+This repo contains the code for my implementation of the Route Planner module and A* search algorithm for Udacity's Route Planning project, an extension of the OpenStreetMap project.
 
 <img src="map.png" width="600" height="450" />
 
